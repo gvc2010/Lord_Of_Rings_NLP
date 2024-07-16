@@ -17,7 +17,7 @@ O corpus utilizado é composto por resumos dos primeiros 12 capítulos do livro 
 
 ## Estrutura do Projeto
 
-- `corpus.py`: Script principal contendo o corpus e as análises realizadas.
+- `corpus.ipynb`: Script principal contendo o corpus e as análises realizadas.
 - `README.md`: Descrição do projeto.
 
 
